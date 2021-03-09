@@ -1,0 +1,5 @@
+In Python you can create customized methods
+In Python you can use built in methods
+In Python you can create customized classes containing methods
+In Python you can create lists
+In Python you can sort through lists

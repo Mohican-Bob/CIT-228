@@ -1,0 +1,7 @@
+{
+    "Dictionary": "Python data type that stores key value pairs",
+    "List": "A memory space where multiple items can be held, sorted, and iterated",
+    "Loop": "a continuous function that repeats until a certain event happens",
+    "Print": "reveal data or type in the form of a string",
+    "Variable": "object that stores any data such as an int, double, or string"
+}
