@@ -6,10 +6,8 @@ quit=""
 
 while quit != "q": 
     try:
-        a = input("what is the value of number one?")
-        int(a)
-        b = input("what is the value of number two?")
-        int(b)
+        a = int(input("what is the value of number one?"))        
+        b = int(input("what is the value of number two?"))        
     except ValueError:
        print("You entered a non-number")        
     else:
